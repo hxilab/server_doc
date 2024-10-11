@@ -1,8 +1,12 @@
 # 目次
 
+[README-ドキュメントの表記](README.md)
+
 ## Ubuntuサーバセットアップあれこれ
 
 ### [Ubuntuのインストール](ubuntu_install.md)
+
+### [Ubuntuパッケージ更新あれこれ](ubuntu_upgrade_packages.md)
 
 ### [Ubuntuユーザの追加](ubuntu_adduser.md)
 
@@ -10,7 +14,7 @@
 
 ### [日本語フォルダを英語に変更](foldername_change_en.md)
 
-## Ubuntuサーバ上のPython環境を整備するあれこれ
+## [Conda編] Ubuntuサーバ上のPython環境を整備するあれこれ
 
 ### [Condaの導入](conda_install.md)
 
@@ -20,7 +24,7 @@
 
 ### [IPアドレスを確認](check_ipaddress.md)
 
-### [SSH接続で手元PCからUbuntuサーバを操作する](ssh_connect.md)
+### [SSH接続でUbuntuサーバターミナルにアクセス](ssh_connect.md)
 
 ### [Conda操作あれこれ](conda_use.md)
 
