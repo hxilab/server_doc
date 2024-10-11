@@ -11,5 +11,9 @@
     $ bash Miniconda3-latest-Linux-x86_64.sh
     ```
 3. コンソールの表示に従い，利用規約に同意しインストール先を指定
-4. conda initの質問に対してyesを入力してEnter
-5. ターミナルを再度開き，左端にデフォルトの仮想環境(base)が有効になっていることを確認
+4. Condaの自動起動の質問に対して```yes```と入力してEnter
+5. ターミナルを再度開き，左端にデフォルトの仮想環境```(base)```が有効になっていることを確認
+6. Condaの自動起動は以下のコマンドで設定できる（true/false）
+    ```shell
+    conda config --set auto_activate_base true
+    ```

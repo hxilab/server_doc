@@ -17,7 +17,7 @@ $ conda list
 
 ## 仮想環境作成
 
-Python3.10レベルの環境を作成する場合
+Python3.10系の環境を作成する場合
 ```shell
 $ conda create -n 環境名 python=3.10
 ```
