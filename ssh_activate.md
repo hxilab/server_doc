@@ -25,3 +25,4 @@ Ubuntuに対するSSH接続はデフォルトで実行できません．
     $ sudo systemctl start ssh
     ```
 
+<br><br>&copy; 2024_2020小野

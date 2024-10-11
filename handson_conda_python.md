@@ -147,3 +147,5 @@ PyTorchのサイト[https://pytorch.org/get-started/locally/](https://pytorch.or
 
     3行目ではGPUの利用可否，4行目では対象となるGPUの名称を表示している<br>
     ```True```と正しいGPU名が出力された場合は成功
+
+<br><br>&copy; 2024_2020小野

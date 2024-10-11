@@ -29,3 +29,5 @@
 ### [Conda操作あれこれ](conda_use.md)
 
 ### [GPU利用状況を確認](check_gpu_status.md)
+
+<br><br>&copy; 2024_2020小野

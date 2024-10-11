@@ -25,3 +25,5 @@
 ```shell
 rm -rf miniconda3
 ```
+
+<br><br>&copy; 2024_2020小野

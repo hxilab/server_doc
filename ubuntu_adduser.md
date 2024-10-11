@@ -15,3 +15,5 @@ $ adduser ユーザ名
 ```shell
 $ gpasswd -a ユーザ名 sudo
 ```
+
+<br><br>&copy; 2024_2020小野

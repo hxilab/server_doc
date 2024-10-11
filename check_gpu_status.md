@@ -16,3 +16,5 @@ $ nvidia-smi -l        # デフォルトは5秒間隔
 $ nvidia-smi -l 1      # 1秒間隔
 $ nvidia-smi -lms 500  # 0.5秒間隔
 ```
+
+<br><br>&copy; 2024_2020小野

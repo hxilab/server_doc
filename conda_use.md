@@ -42,3 +42,5 @@ $ conda remove -n 環境名 --all
 ```shell
 $ conda info -e
 ```
+
+<br><br>&copy; 2024_2020小野

@@ -23,3 +23,5 @@ $ sudo apt dist-upgrade
 ```shell
 $ sudo apt autoremove
 ```
+
+<br><br>&copy; 2024_2020小野
