@@ -45,7 +45,7 @@ $ ssh ユーザ名@IPアドレス
 
 
 ## 3. CUDAをインストール
-AnacondaのCUDAのページ[https://anaconda.org/nvidia/cuda](https://anaconda.org/nvidia/cuda)を参照し，対象のCUDAバージョンのインストールコマンドをコピペして実行する．<br>今回は12.4をインストールする
+AnacondaのCUDAのページ[https://anaconda.org/nvidia/cuda](https://anaconda.org/nvidia/cuda)を参照し，対象のCUDAバージョンのインストールコマンドをコピペして実行<br>今回は12.4をインストールする
 ```shell
 (test_env)$ conda install nvidia/label/cuda-12.4.0::cuda
 ```
