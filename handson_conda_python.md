@@ -1,6 +1,7 @@
 # ハンズオンConda仮想環境×Python×CUDA×JupyterLab
 
-UbuntuサーバでGPUを利用した機械学習環境を整える作業の流れをまとめました．<br>これやっておけば基礎的な環境構築は完璧かも(?!)
+UbuntuサーバでGPUを利用した機械学習環境を整える作業の流れをまとめまし<br>
+これやっておけば基礎的な機械学習のPython環境構築は完璧かも(?!)
 
 ## 前提
 
@@ -131,7 +132,7 @@ PyTorchのサイト[https://pytorch.org/get-started/locally/](https://pytorch.or
 3. [設定した](#JupyterLabパスワード設定)パスワードを手元PCのブラウザで入力し，JupyterLabに接続
 
 ## Python，CUDAの動作確認
-1. JupyterLabでnotebookファイルを作成する
+1. JupyterLabでnotebookファイル（.ipynbファイル）を作成する
     1. ```File``` → ```New``` → ```Notebook```でファイルを作成
     2. Select Kernelでは```Python```または```Python3```を選択
 
