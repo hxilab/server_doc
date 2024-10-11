@@ -21,7 +21,7 @@ Python3.10系の環境を作成する場合
 ```shell
 $ conda create -n 環境名 python=3.10
 ```
-Pythonバージョンを指定しない場合，base環境のバージョンのPythonが適用される
+Pythonバージョンを指定しない場合，base環境のPythonバージョンが適用される
 
 ## 仮想環境有効化
 
